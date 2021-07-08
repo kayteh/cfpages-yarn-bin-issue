@@ -5,5 +5,8 @@
   "license": "MIT",
   "bin": {
     "pages-chmod-hello": "./bin/hello-world.js"
+  },
+  "scripts": {
+    "build": "exit 0"
   }
 }
