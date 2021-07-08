@@ -1,0 +1,9 @@
+{
+  "name": "pages-chmod-yarn-bin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "pages-chmod-hello": "./bin/hello-world.js"
+  }
+}
