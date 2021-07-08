@@ -1,0 +1,8 @@
+{
+  "name": "hello-world-cli",
+  "version": "1.0.0",
+  "description": "A hello-world cli",
+  "bin": {
+    "pages-chmod-hello": "./bin/hello-world.js"
+  }
+}
